@@ -1,4 +1,4 @@
-export const strUtil = {
+export const myxss = {
     //1.用正则表达式实现str验证,转码
     strEncodeByRegExp : function (str){  
         let s = "";
