@@ -2,7 +2,7 @@
 
 npm i myxss --save
 
-import myxss from 'myxss'
+import {myxss} from 'myxss'
 
 //Verify string and filter
 
